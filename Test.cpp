@@ -93,3 +93,13 @@ int main() {
 
     return 0;
 }
+
+
+/* 
+OUTPUT
+User 101 assigned to Service Provider 3
+User 102 assigned to Service Provider 2
+User 103 assigned to Service Provider 1
+User 104 has exceeded the maximum waiting time and is removed from the queue.
+User 105 has exceeded the maximum waiting time and is removed from the queue.
+*/
